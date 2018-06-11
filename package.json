@@ -1,0 +1,20 @@
+{
+  "name": "ipv4-to-int",
+  "version": "1.0.0",
+  "description": "convert ipv4 to 32 bit integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ipv4",
+    "32",
+    "bit",
+    "integer"
+  ],
+  "author": "eric.zxf",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
